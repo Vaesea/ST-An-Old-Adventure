@@ -12,7 +12,7 @@ Tux must find Nolok and get him to bring things back to normal... and he needs t
 There will be 8 levels per world, and there's more than 2 worlds here, so the worlds are below.
 
 ### Worlds
-1. Antarctica
+1. Antarctica (I'm just gonna put here that this add-on needs a remake of the darkstone / metal tiles from the 0.0.6 version of SuperTux. I'll probably use industrial tiles as placeholders, but darkstone tiles are still needed)
 2. Grassland (Needs worldmap and level graphics, I'm using the forest graphics as placeholders)
 3. Desert (Needs worldmap and level graphics)
 4. Temple (Needs worldmap and level graphics)
