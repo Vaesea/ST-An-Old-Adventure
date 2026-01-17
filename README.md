@@ -10,6 +10,11 @@ Something even more strange, is that there's more stuff, like an entire grasslan
 
 Tux must find Nolok and get him to bring things back to normal... and he needs to find Penny, because she went missing. But is she even Penny anymore? No! Of course not! She's Gown now because everything was reverted.
 
+## How To Play The Add-On
+Put the folder in this repository in your supertux2 save folder's levels folder. Make sure you're using the latest nightly build! And also, do not rename the folder unless you want things to break!
+
+I don't see this being in the add-on repository anytime soon, so you'll have to do what I said above. Another thing, if anyone from SuperTux Team sees this and wants to add it to the add-on repository (again, I don't see this happening at all), you have permission to do that.
+
 ## Info
 There will be 8 levels per world, and there's more than 2 worlds here, so the worlds are below.
 
