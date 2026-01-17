@@ -1,6 +1,8 @@
 # SuperTux: An Old Adventure
 License is CC-BY-SA 4.0, check the LICENSE file for more information.
 
+You can use anything here, just give credit if you do.
+
 ## THERE ARE SPOILERS IN THIS README.
 Somehow, Nolok has accidentally reverted the world to an older version, and Tux woke up in this new world!
 
