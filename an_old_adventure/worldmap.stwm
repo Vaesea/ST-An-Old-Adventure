@@ -58,6 +58,7 @@
     )
     (level
       (z-pos 50)
+      (level "familiar_path.stl")
       (x 11)
       (y 13)
     )
