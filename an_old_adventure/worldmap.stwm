@@ -36,6 +36,7 @@
     )
     (level
       (z-pos 50)
+      (level "milestone_cave.stl")
       (x 18)
       (y 8)
     )
