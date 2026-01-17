@@ -2,7 +2,7 @@
   (version 3)
   (name (_ "Tobgle Road"))
   (author "Tobias Glaesser (Original), Sophie Ball (Remake)")
-  (license "CC-BY-SA 4.0 International")
+  (license "CC-BY-SA 3.0 + GPL 2+")
   (target-time 34)
   (allow-item-pocket "inherit")
   (icon "")
