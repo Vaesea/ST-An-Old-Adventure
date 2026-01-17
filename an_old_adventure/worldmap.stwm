@@ -52,6 +52,14 @@
       (x 29)
       (y 10)
     )
+    (level
+      (z-pos 50)
+      (level "intro.stl")
+      (auto-play #t)
+      (sprite "/images/worldmap/common/invisible.png")
+      (x 5)
+      (y 19)
+    )
     (music
       (name "Music_Object")
       (file "/music/retro/worldmap_old.music")

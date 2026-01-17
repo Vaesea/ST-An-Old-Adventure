@@ -1,0 +1,19 @@
+(supertux-text			
+  (background	"retro/arctis_skyline.png")
+  (music	"music/retro/theme_old.music")
+  (text (_ "-The world has been reverted!
+
+	Tux was sleeping one day, when the
+	world was reverted back to an older
+	version!
+	
+	Tux knew this is what the world looked
+	like when he was a child, but he was
+	confused. Who did this, and why?
+	
+	He had to save the world. That's all
+	Tux knew.
+	
+	So, he started running and jumping
+	towards the right, not being aware of
+	how long this adventure would be...")) )
