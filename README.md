@@ -77,6 +77,28 @@ Music is also needed.
 - [ ] Lava
 - [x] Fortress2 (Final Level theme)
 
+---
+
+There will also be new enemies, but this list does include the already-existing enemies.
+
+- [x] BSOD
+- [ ] RSOD (Smart BSOD) (Name stands for Red Screen of Death)
+- [x] Laptop
+- [ ] Redtop (Smart Laptop) (Instead of a blue screen, it's a red screen)
+- [x] Bag
+- [x] Mr Snowball (for one level only)
+- [x] Mrs Snowball (for one level only)
+- [x] Metal Jumpy (for one level only)
+- [x] Mr Iceblock (for one level only)
+- [x] Old Bomb / Classic Mr Bomb
+- [x] Spiky (for one level only)
+- [ ] Stalactite (Ice stalactite is for one level only, but there will be more stalactites)
+- [ ] Walking Tree (Check SuperTux Media images/creatures/tree/walkingtree-left-1.png)
+- [ ] Small Walking Tree (smaller version of walking tree)
+- [ ] Tornado (Flying Snowball-like enemy, check SuperTux Media images/creatures/tornado/. Unfortunately I can't make it unkillable without coding)
+- [ ] Mr Flame (Leafshot-like enemy, check SuperTux Media images/creatures/mrflame/. Unfortunately I can't make it unkillable without coding)
+- [ ] Mr Rocket (Kamikaze Snowball-like enemy, you know what this is, unfortunately I can't make it explode without coding)
+
 ## Contributing Stuff
 If you contribute new tiles, whether that is level or worldmap tiles, unless you add the tiles to tiles.strf or ice_world.strf yourself, please make them be 128 in horizontal size. Vertical size can be anything that's a multiple of 32, obviously.
 
