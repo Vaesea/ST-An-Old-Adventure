@@ -24,13 +24,9 @@
     )
     (level
       (z-pos 50)
+      (level "tobgle_road.stl")
       (x 9)
       (y 16)
-    )
-    (level
-      (z-pos 50)
-      (x 11)
-      (y 13)
     )
     (level
       (z-pos 50)
@@ -59,6 +55,11 @@
       (sprite "/images/worldmap/common/invisible.png")
       (x 5)
       (y 19)
+    )
+    (level
+      (z-pos 50)
+      (x 11)
+      (y 13)
     )
     (music
       (name "Music_Object")
