@@ -20,7 +20,7 @@ There will be 8 levels per world, and there's more than 2 worlds here, so the wo
 
 ### Worlds
 1. Antarctica (I'm just gonna put here that this add-on needs a remake of the darkstone / metal tiles from the 0.0.6 version of SuperTux. I'll probably use industrial tiles as placeholders, but darkstone tiles are still needed)
-2. Grassland (Needs worldmap and level graphics, I'm using the forest graphics as placeholders)
+2. Grassland (Needs worldmap and level graphics, I'm using the forest graphics in the worldmap as placeholders)
 3. Desert (Needs worldmap and level graphics)
 4. Temple (Needs worldmap and level graphics)
 5. City (Needs worldmap and level graphics)
@@ -69,7 +69,7 @@ Music is also needed.
 - [ ] Peak
 
 #### Moon
-- [ ] Moon
+- [x] Tk5a (From TuxKart 0.4.0)
 - [ ] Moonlight
 
 #### Volcano
