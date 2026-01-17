@@ -30,6 +30,7 @@
     )
     (level
       (z-pos 50)
+      (level "laptop_level.stl")
       (x 15)
       (y 10)
     )
