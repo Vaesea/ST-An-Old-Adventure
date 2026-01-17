@@ -37,6 +37,7 @@ Music is also needed.
 #### Antarctica
 - [x] Chipdisko
 - [x] Ice Music
+- [x] Salcon
 
 #### Grassland
 - [ ] Grassland
