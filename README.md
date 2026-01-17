@@ -74,7 +74,7 @@ Music is also needed.
 
 #### Volcano
 - [ ] Volcano
-- [ ] Lava
+- [x] tp2 (From Tux Platforming)
 - [x] Fortress2 (Final Level theme)
 
 ---
