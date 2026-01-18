@@ -5,6 +5,10 @@ You can use anything here, just give credit if you do.
 
 Some files are not CC-BY-SA 4.0. Check the files for more information. (if it's a song, check it's .music file)
 
+the tileset file is a copy of snow covering but changed to be the tiles for this add-on.
+
+sorry eauix
+
 ## THERE ARE SPOILERS IN THIS README.
 Somehow, Nolok has accidentally reverted the world to an older version, and Tux woke up in this new world!
 
