@@ -25,14 +25,14 @@ I don't see this being in the add-on repository anytime soon, so you'll have to 
 There will be 8 levels per world, and there's more than 2 worlds here, so the worlds are below.
 
 ### Worlds
-1. Antarctica (I'm just gonna put here that this add-on needs a remake of the darkstone / metal tiles from the 0.0.6 version of SuperTux. I'll probably use industrial tiles as placeholders, but darkstone tiles are still needed)
-2. Grassland (Needs worldmap and level graphics, I'm using the forest graphics in the worldmap as placeholders)
+1. Antarctica (Needs worldmap graphics, might just use SuperTux 0.1.3's Icy Island worldmap graphics)
+2. Grassland (Needs worldmap graphics and leaves for the tree)
 3. Desert (Needs worldmap and level graphics)
 4. Temple (Needs worldmap and level graphics)
 5. City (Needs worldmap and level graphics)
-6. Mountain (Needs worldmap and level graphics)
-7. Moon (Needs worldmap graphics, will use Jagged Rock tiles for the levels. Decorations for levels are needed, though)
-8. Volcano (Needs worldmap graphics, will use Jagged Rock tiles for the levels. Decorations for levels are needed??? I could wait until Tropical Paradise exists since that apparently contains volcano rock images, I don't wanna steal from the World 3 Graphics pull request)
+6. Mountain (Needs worldmap graphics)
+7. Moon (Needs worldmap graphics)
+8. Volcano (Needs worldmap graphics)
 
 ---
 
@@ -92,18 +92,12 @@ There will also be new enemies, but this list does include the already-existing 
 - [x] Laptop
 - [ ] Redtop (Smart Laptop) (Instead of a blue screen, it's a red screen)
 - [x] Bag
-- [x] Mr Snowball (for one level only)
-- [x] Mrs Snowball (for one level only)
-- [x] Metal Jumpy (for one level only)
-- [x] Mr Iceblock (for one level only)
 - [x] Old Bomb / Classic Mr Bomb
-- [x] Spiky (for one level only)
-- [ ] Stalactite (Ice stalactite is for one level only, but there will be more stalactites)
-- [ ] Walking Tree (Check SuperTux Media images/creatures/tree/walkingtree-left-1.png)
-- [ ] Small Walking Tree (smaller version of walking tree)
-- [ ] Tornado (Flying Snowball-like enemy, check SuperTux Media images/creatures/tornado/. Unfortunately I can't make it unkillable without coding)
-- [ ] Mr Flame (Leafshot-like enemy, check SuperTux Media images/creatures/mrflame/. Unfortunately I can't make it unkillable without coding)
-- [ ] Mr Rocket (Kamikaze Snowball-like enemy, you know what this is, unfortunately I can't make it explode without coding)
+- [ ] Stalactite (There will be one stalactite for most worlds)
+- [x] Walking Tree
+- [x] Tornado (Flying Snowball-like enemy, check SuperTux Media images/creatures/tornado/. Unfortunately I can't make it unkillable without coding)
+- [x] Mr Flame (Leafshot-like enemy, check SuperTux Media images/creatures/mrflame/. Unfortunately I can't make it unkillable without coding)
+- [x] Mr Rocket (Kamikaze Snowball-like enemy, you know what this is, unfortunately I can't make it explode without coding)
 
 ## Contributing Stuff
 If you contribute new tiles, whether that is level or worldmap tiles, unless you add the tiles to tiles.strf or ice_world.strf yourself, please make them be 128 in horizontal size. Vertical size can be anything that's a multiple of 32, obviously.
@@ -111,4 +105,4 @@ If you contribute new tiles, whether that is level or worldmap tiles, unless you
 This is so tiles can be added easily.
 
 ## Development Status
-Antarctica is being worked on.
+The whole thing is being reset to make it be more like 0.0.6
