@@ -3,6 +3,8 @@ License is CC-BY-SA 4.0, check the LICENSE file for more information.
 
 You can use anything here, just give credit if you do.
 
+Some files are not CC-BY-SA 4.0. Check the files for more information. (if it's a song, check it's .music file)
+
 ## THERE ARE SPOILERS IN THIS README.
 Somehow, Nolok has accidentally reverted the world to an older version, and Tux woke up in this new world!
 
